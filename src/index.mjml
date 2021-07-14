@@ -1,0 +1,328 @@
+<mjml>
+  <mj-head>
+    <mj-title> AXA September Promo - Dominic Arrojado </mj-title>
+
+    <!-- START of Global Attributes -->
+    <mj-breakpoint width="800px" />
+    <mj-attributes>
+      <mj-all padding="0" font-family="Arial" line-height="1.4" />
+    </mj-attributes>
+    <!-- END of Global Attributes -->
+
+    <!-- START of Inline Style Overrides -->
+    <!-- prettier-ignore -->
+    <mj-style inline="inline">
+      .inline-img {
+        display: inline;
+        outline: none;
+        border: 0;
+        font-size: 13px;
+        text-decoration: none;
+      }
+
+      .btn-text {
+        display: inline-block;
+        margin: 0;
+        background: transparent;
+        color: #ffffff;
+        font-family: Arial;
+        font-size: 11px;
+        line-height: 1.4;
+        text-decoration: none;
+        cursor: pointer;
+      }
+
+      .social-facebook-img {
+        width: 72px;
+        height: auto;
+      }
+
+      .social-youtube-img,
+      .social-linkedin-img {
+        width: 31px;
+        height: auto;
+      }
+    </mj-style>
+    <!-- END of Inline Style Overrides -->
+
+    <!-- START of Internal/Mobile Styles -->
+    <!-- prettier-ignore -->
+    <mj-style>
+      .btn-text-hover a:hover,
+      a.btn-text-hover:hover {
+        cursor: pointer !important;
+        text-decoration: underline !important;
+      }
+
+      .btn-hover-white a:hover {
+        background-color: #ffffff !important;
+        color: #133483 !important;
+      }
+
+      .btn-hover-blue a:hover {
+        background-color: #133483 !important;
+        color: #ffffff !important;
+      }
+
+      @media only screen and (max-width: 799px) {
+        .wrapper > table > tbody > tr > td {
+          padding-top: 0 !important;
+          padding-bottom: 0 !important;
+        }
+      }
+    </mj-style>
+    <!-- END of Internal/Mobile Styles -->
+
+    <mj-raw>
+      <!-- START of Google Tag Manager -->
+      <script>
+        (function (w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != "dataLayer" ? "&l=" + l : "";
+          j.async = true;
+          j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, "script", "dataLayer", "GTM-TSMLTPT");
+      </script>
+      <!-- END of Google Tag Manager -->
+
+      <link rel="icon" href="https://dominicarrojado.com/favicon.ico" />
+      <meta name="theme-color" content="#d7e1e9" />
+      <meta
+        name="description"
+        content="Email template for AXA September Promo"
+      />
+      <link
+        rel="canonical"
+        href="https://dominicarrojado.com/axa-september-promo-edm/"
+      />
+      <meta property="og:locale" content="en_US" />
+      <meta property="og:type" content="website" />
+      <meta
+        property="og:title"
+        content="AXA September Promo - Dominic Arrojado"
+      />
+      <meta
+        property="og:description"
+        content="Email template for AXA September Promo"
+      />
+      <meta
+        property="og:url"
+        content="https://dominicarrojado.com/axa-september-promo-edm/"
+      />
+      <meta
+        property="og:site_name"
+        content="AXA September Promo - Dominic Arrojado"
+      />
+      <meta
+        property="og:image"
+        content="https://dominicarrojado.com/axa-september-promo-edm/images/axa-september-promo-screenshot.png"
+      />
+      <meta
+        property="og:image:secure_url"
+        content="https://dominicarrojado.com/axa-september-promo-edm/images/axa-september-promo-screenshot.png"
+      />
+      <meta property="og:image:width" content="2880" />
+      <meta property="og:image:height" content="1800" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta
+        name="twitter:description"
+        content="Email template for AXA September Promo"
+      />
+      <meta
+        name="twitter:title"
+        content="AXA September Promo - Dominic Arrojado"
+      />
+      <meta
+        name="twitter:image"
+        content="https://dominicarrojado.com/axa-september-promo-edm/images/axa-september-promo-screenshot.png"
+      />
+    </mj-raw>
+  </mj-head>
+  <mj-body width="800px" background-color="#d7e1e9">
+    <mj-wrapper css-class="wrapper" padding="40px 0">
+      <!-- START of Hero Image 1 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-smart-travel.png"
+              alt="AXA Adventures abound with every trip - 3-Days Only! (From 25 to 27 Sep 2017) 50% off* Single Trip Plan with AXA SmartTraveller Insurance - couple seated on a cliff"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 1 -->
+
+      <!-- START of Content 1 -->
+      <mj-section background-color="#133483" padding="60px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text align="center" color="#ffffff" font-size="22px">
+              Have an upcoming trip? Travel the World with complete
+            </mj-text>
+            <mj-text align="center" color="#ffffff" font-size="22px">
+              peace of mind with AXA SmartTraveller Insurance.
+            </mj-text>
+            <mj-text align="center" color="#ffffff" font-size="22px">
+              From 25 to 27 Sept 2017, get 50% off* Single Trip Plan.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/travel-insurance/smarttraveller"
+              rel="noopener noreferrer nofollow"
+              css-class="btn-hover-white"
+              align="center"
+              padding-top="30px"
+              border="2px solid #ffffff"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#ffffff"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 1 -->
+
+      <!-- START of Hero Image 2 -->
+      <mj-section>
+        <mj-group>
+          <mj-column width="100%">
+            <mj-image
+              src="images/banner-axa-smart-home.png"
+              alt="AXA Safeguard what means most to you - 40% off* AXA SmartHome Insurance, mother and kid having fun building legos"
+            />
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Hero Image 2 -->
+
+      <!-- START of Content 3 -->
+      <mj-section background-color="#f5f5f5" padding="60px 20px">
+        <mj-group>
+          <mj-column width="100%">
+            <mj-text align="center" color="#2e2e2e" font-size="22px">
+              Enjoy 40% off* AXA SmartHome Insurance and
+            </mj-text>
+            <mj-text align="center" color="#2e2e2e" font-size="22px">
+              get covered for your home contents and more.
+            </mj-text>
+            <mj-button
+              href="https://www.axa.com.sg/home-insurance"
+              rel="noopener noreferrer nofollow"
+              css-class="btn-hover-blue"
+              align="center"
+              padding-top="30px"
+              border="2px solid #133483"
+              border-radius="0"
+              background-color="transparent"
+              inner-padding="9px 50px"
+              color="#133483"
+              font-size="16px"
+              font-weight="bold"
+              text-transform="uppercase"
+            >
+              Buy Now
+            </mj-button>
+          </mj-column>
+        </mj-group>
+      </mj-section>
+      <!-- END of Content 3 -->
+
+      <!-- START of Footer -->
+      <mj-section background-color="#133483" padding="0 20px 18px">
+        <mj-column width="16%" vertical-align="middle" padding-top="20px">
+          <mj-button
+            href="https://www.axa.com.sg/"
+            rel="noopener noreferrer nofollow"
+            css-class="btn-text-hover"
+            align="center"
+            background-color="transparent"
+            inner-padding="0"
+            color="#ffffff"
+            font-size="12px"
+            font-weight="bold"
+            text-transform="uppercase"
+          >
+            www.axa.com.sg
+          </mj-button>
+        </mj-column>
+        <mj-column width="60%" vertical-align="middle" padding-top="20px">
+          <mj-text
+            align="center"
+            color="#ffffff"
+            font-size="11px"
+            text-transform="uppercase"
+          >
+            Privacy policy © 2017 AXA All rights reserved |
+            <a href="#" class="btn-text btn-text-hover">Unsubscribe</a>
+          </mj-text>
+        </mj-column>
+        <mj-column width="24%" vertical-align="middle" padding-top="20px">
+          <mj-text align="center">
+            <a
+              href="https://www.facebook.com/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-facebook-like.png"
+                alt="Facebook like"
+                class="inline-img social-facebook-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a
+              href="https://www.youtube.com/user/AXASingapore"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-youtube.png"
+                alt="YouTube"
+                class="inline-img social-youtube-img"
+              />
+            </a>
+            &nbsp;&nbsp;
+            <a
+              href="https://www.linkedin.com/company/axa/"
+              target="_blank"
+              rel="noopener noreferrer nofollow"
+              class="btn-text"
+            >
+              <img
+                src="images/btn-linkedin.png"
+                alt="LinkedIn"
+                class="inline-img social-linkedin-img"
+              />
+            </a>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- END of Footer -->
+    </mj-wrapper>
+
+    <mj-raw>
+      <!-- START of Google Tag Manager (noscript) -->
+      <noscript
+        ><iframe
+          src="https://www.googletagmanager.com/ns.html?id=GTM-TSMLTPT"
+          height="0"
+          width="0"
+          style="display: none; visibility: hidden"
+        ></iframe
+      ></noscript>
+      <!-- END of Google Tag Manager (noscript) -->
+    </mj-raw>
+  </mj-body>
+</mjml>
